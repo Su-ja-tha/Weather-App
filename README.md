@@ -1,46 +1,46 @@
 # Weather-App
 
-Project Overview
+**Project Overview**
 
 This Weather App allows users to check the current weather for any city. It uses the Open-Meteo Geocoding API to find location coordinates and then fetches weather data using the Open-Meteo Weather Forecast API.
 
-App Features
+**App Features**
 
-•	Search bar to enter a city name
-•	Display of temperature, wind speed, and weather description
-•	Error message if city is not found
-•	Supports multiple city searches
+* Search bar to enter a city name
+*	Display of temperature, wind speed, and weather description
+* Error message if city is not found
+*	Supports multiple city searches
 
-How to Navigate & Run the Code
+**How to Navigate & Run the Code**
 
-1.	Clone this repository: 
+Clone this repository: 
 
-git clonehttps://github.com/Su-ja-tha/Weather-App.git
+``git clonehttps://github.com/Su-ja-tha/Weather-App.git``
 
-Navigate to the project folder:
+**Navigate to the project folder:**
 
 cd Weather-App
-3.	Open index.html in your browser to start the app.
+Open index.html in your browser to start the app.
 
-Project Files
+**Project Files**
 
-•	src/index.html: Structure of the web page
-•	src/app.js: JavaScript logic for fetching and displaying weather data
-•	src/style.css: Styling
-•	src/Weather_App Project document with screenshot
+*	src/index.html: Structure of the web page
+*	src/app.js: JavaScript logic for fetching and displaying weather data
+*	src/style.css: Styling
+8	src/Weather_App Project document with screenshot
 
-What I Learned
+**What I Learned**
 
-•	How to use APIs in JavaScript
-•	Handling user input and asynchronous requests
-•	Error handling and user feedback
+* How to use APIs in JavaScript
+* Handling user input and asynchronous requests
+* Error handling and user feedback
 
-Challenges
+**Challenges**
 
 Managing API responses and chaining asynchronous requests correctly was initially tricky.
 
-Future Improvements
-•	Add weather icons
-•	Improve design with CSS
-•	Store recent search history
+**Future Improvements**
+* Add weather icons
+* Improve design with CSS
+* Store recent search history
 
